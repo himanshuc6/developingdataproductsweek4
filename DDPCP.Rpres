@@ -32,5 +32,5 @@ plot(diamonds[,c(1:4,7)])
 
 Links
 ========================================================
-- shiny app: https://lisabags.shinyapps.io/my_app/
-- source code: https://github.com/LisaBags/Developing-Data-Products-Project
+- shiny app: https://himanshuc6.shinyapps.io/shinnyapp/
+- source code: https://github.com/himanshuc6/developingdataproductsweek4
